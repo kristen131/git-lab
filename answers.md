@@ -34,3 +34,61 @@ Answer 5
    (use "git add <file>..." to include in what will be committed)
 
          answers.md
+
+Answer 6
+ -On branch master
+
+  No commits yet
+
+  Changes to be committed:
+   (use "git rm --cached <file>..." to unstage)
+
+         new file:  README.md
+         new file:  answers.md
+
+Answer 7
+ -On branch master
+  Changes not staged for commt:
+   (use "git add <file>..." to update what will be committed)
+   (use "git checkout -- <file>..." to discard changes in working directory)
+
+         modified:  answers.md
+  
+  no changes added to commit (use"git add" an/or "git commit -a")
+
+Answer 8
+ -commit 2041058f85e11184ce76f59a4513643c66a0a254 (HEAD -> master)
+  Author: Kristen Phillips <kp465821@ohio.edu>
+  Date:   Wed Jan 25 16:30:25 2023 -0500
+
+       Initial commit
+
+Answer 9
+ -On branch main
+  Your branch is up to date with 'origin/main'.
+
+  Changes not staged for commit:
+    (use "git add <file>..." to update what will be committed)
+    (use "git checkout -- <file>..." to discared changed in working directory)
+
+         modified:   answers.md
+
+  no changed added to commit (use "git add" and/or "git commit -a")
+
+Answer 10
+ -No it was not reflected into my local copy.
+
+Answer 11
+ -The terminal says that there was an error:failed to push some refs to 'https://github.com/kristen131/git-lab.git'. Updates were rejected because the remote contains work that you do not have locally. It says to try 'git pull ...' before pushing again.
+
+Answer 12
+ -The changes I made online were reflected in my local copy.
+
+Answer 13
+ -.  ..  .git  .gitignore  README.md
+
+
+
+
+
+
